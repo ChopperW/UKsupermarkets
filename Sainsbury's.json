@@ -1,0 +1,12 @@
+[
+  { "id": "p1", "name": "Milk", "price": 1.40 },
+  { "id": "p2", "name": "Bread", "price": 1.30 },
+  { "id": "p3", "name": "Eggs", "price": 2.60 },
+  { "id": "p4", "name": "Rice", "price": 2.90 },
+  { "id": "p5", "name": "Chicken", "price": 6.99 },
+  { "id": "p6", "name": "Apples", "price": 1.40 },
+  { "id": "p7", "name": "Bananas", "price": 1.20 },
+  { "id": "p8", "name": "Orange Juice", "price": 1.90 },
+  { "id": "p9", "name": "Cheese", "price": 1.70 },
+  { "id": "p10", "name": "Pasta", "price": 0.90 }
+]
